@@ -1,0 +1,8 @@
+Nim : 1811500044
+Nama : Jukardi Afriyansyah
+Kelompok : TI6J
+
+Hasil saya menyadur:
+1) ada tugas untuk menyadur tiap pertemuan dan ditaruh github
+2) buat kelompok presentasi sebanyak 3 orang mahasiswa / kelompok 
+3) dst
